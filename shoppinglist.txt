@@ -1,2 +1,6 @@
+eggs
 bread
 Ham
+milk
+bacon
+
